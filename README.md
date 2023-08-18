@@ -67,7 +67,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/geeky-hypertext629/geeky-hypertext629/output/snake.svg" alt="Snake animation" />
+### :fire: My Stats :
 
 ###

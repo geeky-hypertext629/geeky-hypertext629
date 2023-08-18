@@ -66,7 +66,6 @@
 
 ###
 
-<br clear="both">
-### :fire: My Stats :
+
 
 ###

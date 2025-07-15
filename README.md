@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋! I'm SUBHAM CHANDRA. I'm a full-stack developer 🧑‍💻</h2>
+<h2 align="left">Hello there, I'm Subham Chandra👋🧑‍💻</h2>
 
 ###
 

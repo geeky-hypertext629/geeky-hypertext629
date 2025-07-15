@@ -3,7 +3,7 @@
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhamchandra528/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SubhamC60715111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamchandra.12a.6@gmail.com) 
 
-
+---
 
 ### 🚀 What I Do
 - 🧑‍💻 Frontend Developer Intern @ Skygoal Innova (2024)
@@ -11,6 +11,7 @@
 - ☁️ Deploying with **Docker**, **AWS EC2**, and setting up CI/CD pipelines
 - 🔁 Designing microservices with **RabbitMQ**, **MySQL**, and **JWT**
 
+---
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geeky-hypertext629&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

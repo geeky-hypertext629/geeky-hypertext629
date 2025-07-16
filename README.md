@@ -1,8 +1,11 @@
 <h2 align="left">Hello there, I'm Subham Chandra👋🧑‍💻</h2>
 
 ###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhamchandra528/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SubhamC60715111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamchandra.12a.6@gmail.com) 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/subham528/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishi%20Ahuja-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.subhamchandra.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-brightgreen?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:subh28909jsr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 ### 🚀 What I Do
 - 🧑‍💻 Frontend Developer Intern @ Skygoal Innova (2024)

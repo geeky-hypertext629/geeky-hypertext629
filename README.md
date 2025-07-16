@@ -2,8 +2,8 @@
 
 ###
 <p align="left">
-  <a href="https://www.linkedin.com/in/subham528/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishi%20Ahuja-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.subhamchandra.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-brightgreen?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/subham528/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Subham%20Chandra-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.subhamchandra.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-subhamchandra.me-brightgreen?style=flat-square&logo=google-chrome"></a>
   <a href="mailto:subh28909jsr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail"></a>
 </p>
 

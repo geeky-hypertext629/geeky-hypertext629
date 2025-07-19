@@ -8,7 +8,7 @@
 </p>
 
 ### 🚀 What I Do
-- 🧑‍💻 Frontend Developer Intern @ Skygoal Innova (2024)
+- 🧑‍💻 Frontend Developer Intern @Skygoal Innova (2024)
 - 🏗️ Building production-ready apps with **React**, **Next.js**, **Node.js**, and **MongoDB**
 - ☁️ Deploying with **Docker**, **AWS EC2**, and setting up CI/CD pipelines
 - 🔁 Designing microservices with **RabbitMQ**, **MySQL**, and **JWT**

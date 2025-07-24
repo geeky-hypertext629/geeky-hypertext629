@@ -20,7 +20,6 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQGb-1KsutGwow/profile-displayphoto-shrink_400_400/0/1692081411687?e=1697673600&v=beta&t=52_5N2YxEJ6_drndyfPk7txAGV8kgsafTYMXl44taJc"  />
 
 ###
